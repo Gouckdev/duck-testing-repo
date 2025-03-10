@@ -1,6 +1,7 @@
 # duck-testing-repo
+
 first repo just making for
 <br>
- testing purpose
+testing purpose
 <br>
-Author-duckDevolper
+Author-duckDevolper (testing repo)
